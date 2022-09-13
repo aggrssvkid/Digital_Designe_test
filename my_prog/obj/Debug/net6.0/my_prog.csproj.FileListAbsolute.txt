@@ -1,0 +1,15 @@
+/home/paimei/Digital_Designe/my_prog/bin/Debug/net6.0/my_prog
+/home/paimei/Digital_Designe/my_prog/bin/Debug/net6.0/my_prog.deps.json
+/home/paimei/Digital_Designe/my_prog/bin/Debug/net6.0/my_prog.runtimeconfig.json
+/home/paimei/Digital_Designe/my_prog/bin/Debug/net6.0/my_prog.dll
+/home/paimei/Digital_Designe/my_prog/bin/Debug/net6.0/ref/my_prog.dll
+/home/paimei/Digital_Designe/my_prog/bin/Debug/net6.0/my_prog.pdb
+/home/paimei/Digital_Designe/my_prog/obj/Debug/net6.0/my_prog.csproj.AssemblyReference.cache
+/home/paimei/Digital_Designe/my_prog/obj/Debug/net6.0/my_prog.GeneratedMSBuildEditorConfig.editorconfig
+/home/paimei/Digital_Designe/my_prog/obj/Debug/net6.0/my_prog.AssemblyInfoInputs.cache
+/home/paimei/Digital_Designe/my_prog/obj/Debug/net6.0/my_prog.AssemblyInfo.cs
+/home/paimei/Digital_Designe/my_prog/obj/Debug/net6.0/my_prog.csproj.CoreCompileInputs.cache
+/home/paimei/Digital_Designe/my_prog/obj/Debug/net6.0/my_prog.dll
+/home/paimei/Digital_Designe/my_prog/obj/Debug/net6.0/ref/my_prog.dll
+/home/paimei/Digital_Designe/my_prog/obj/Debug/net6.0/my_prog.pdb
+/home/paimei/Digital_Designe/my_prog/obj/Debug/net6.0/my_prog.genruntimeconfig.cache

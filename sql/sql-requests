@@ -1,0 +1,4 @@
+1) select name from employee where salary = (select max(salary) from employee);
+2) select name from department where id = (select department_id from employee where salary = (select max(salary) from employee));
+3) select name from department where id = (select department_id from employee group by 	department_id order by sum(salary) desc limit 1);
+4) select name from employee where name like 'P%%n';
